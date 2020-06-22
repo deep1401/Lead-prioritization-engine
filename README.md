@@ -12,7 +12,7 @@ This is an online service created by team Chernobyl for start-ups which is aimed
 
 ## About
 
-- *Project Name*: Lead Prioritization Enginer
+- *Project Name*: Lead Prioritization Engine
 - *Short Project Description*: Web Dashboard for Business Development
 - *Team Name*: Chernobyl
 - *Team Members*:
